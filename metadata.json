@@ -1,0 +1,6 @@
+{
+  "name": "Royal Park Baku",
+  "description": "Premium residential complex in Baku offering a quiet, luxurious lifestyle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
