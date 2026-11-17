@@ -1,0 +1,328 @@
+{
+  "version": 1,
+  "showcases": [
+    {
+      "id": "showcase_karabakh",
+      "title": "Карабахский знатный наряд",
+      "subtitle": "Qarabağ zadəgan qadın libası",
+      "description": "Эталон женского костюма Карабахского ханства. Состоит из приталенного Чепкена (Çəpkən) с длинными декоративными разрезными рукавами, бархатного Кюрдю (Kürdü), отороченного натуральным мехом, и многоярусного шелкового тумана. Венчается шелковым Кялагаи с тончайшей набойкой узора Бута.",
+      "costumeId": "karabakh_banoo",
+      "culture": "Азербайджан",
+      "durationSec": 10,
+      "region": "karabakh",
+      "category": "female",
+      "videoUrl": "/media/karabakh-demo.mp4",
+      "posterUrl": "/media/karabakh-poster.jpg",
+      "isCustomUploaded": false,
+      "isTest15Sec": true,
+      "hotspots": [
+        {
+          "id": "demo_head",
+          "timeSec": 0.5,
+          "visibleDurationSec": 3.1,
+          "xPercent": 49,
+          "yPercent": 17,
+          "title": "Налобное украшение",
+          "partName": "Головной убор",
+          "description": "Посмотрите, как декоративные подвески обрамляют лицо и дополняют головной убор.\n\nЭто пример интерактивной метки. В студии проекта редактор может заменить этот текст описанием конкретного украшения, его материала и истории.",
+          "trajectory": [
+            {
+              "timeSec": 0.5,
+              "xPercent": 49,
+              "yPercent": 18
+            },
+            {
+              "timeSec": 1.4,
+              "xPercent": 50,
+              "yPercent": 15
+            },
+            {
+              "timeSec": 2.8,
+              "xPercent": 50,
+              "yPercent": 17
+            },
+            {
+              "timeSec": 3.6,
+              "xPercent": 50,
+              "yPercent": 17
+            }
+          ],
+          "culture": ""
+        },
+        {
+          "id": "demo_necklace",
+          "timeSec": 4.1,
+          "visibleDurationSec": 1.5,
+          "xPercent": 52,
+          "yPercent": 40,
+          "title": "Нагрудное украшение",
+          "partName": "Ювелирные детали",
+          "description": "В этом фрагменте хорошо видны декоративные элементы и подвески нагрудного украшения. Камера позволяет рассмотреть их вблизи.\n\nАвтор экспоната может указать название, происхождение и технику исполнения в этом окне.",
+          "trajectory": [
+            {
+              "timeSec": 4.1,
+              "xPercent": 52,
+              "yPercent": 46
+            },
+            {
+              "timeSec": 5,
+              "xPercent": 53,
+              "yPercent": 37
+            },
+            {
+              "timeSec": 5.6,
+              "xPercent": 52,
+              "yPercent": 29
+            }
+          ],
+          "culture": ""
+        },
+        {
+          "id": "demo_sleeve",
+          "timeSec": 6.1,
+          "visibleDurationSec": 1.5,
+          "xPercent": 35,
+          "yPercent": 53,
+          "title": "Рукав и декоративная отделка",
+          "partName": "Крой и ткань",
+          "description": "Контраст ткани, фактура рукава и декоративная отделка формируют многослойность образа.\n\nДля вашей коллекции здесь можно добавить рассказ о крое, вышивке и особенностях выбранного предмета.",
+          "trajectory": [
+            {
+              "timeSec": 6.1,
+              "xPercent": 34,
+              "yPercent": 50
+            },
+            {
+              "timeSec": 7.6,
+              "xPercent": 42,
+              "yPercent": 47
+            }
+          ],
+          "culture": ""
+        },
+        {
+          "id": "demo_fabric",
+          "timeSec": 8.1,
+          "visibleDurationSec": 1.9,
+          "xPercent": 52,
+          "yPercent": 48,
+          "title": "Ткань и нижняя отделка",
+          "partName": "Силуэт костюма",
+          "description": "Последний фрагмент показывает рисунок ткани, вертикальные складки и отделку по нижнему краю.\n\nНажатие на метку останавливает видео, чтобы описание можно было спокойно прочитать. Продолжить просмотр можно кнопкой «Смотреть».",
+          "trajectory": [
+            {
+              "timeSec": 8.1,
+              "xPercent": 52,
+              "yPercent": 40
+            },
+            {
+              "timeSec": 9.9,
+              "xPercent": 52,
+              "yPercent": 50
+            }
+          ],
+          "culture": ""
+        }
+      ],
+      "chapters": [
+        {
+          "id": "chapter_head",
+          "title": "Головной убор и украшение",
+          "startSec": 0,
+          "durationSec": 4,
+          "description": ""
+        },
+        {
+          "id": "chapter_chest",
+          "title": "Нагрудное украшение",
+          "startSec": 4,
+          "durationSec": 2,
+          "description": ""
+        },
+        {
+          "id": "chapter_sleeve",
+          "title": "Рукав и отделка",
+          "startSec": 6,
+          "durationSec": 2,
+          "description": ""
+        },
+        {
+          "id": "chapter_skirt",
+          "title": "Ткань и силуэт",
+          "startSec": 8,
+          "durationSec": 2,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "showcase_baku",
+      "title": "Бакинский праздничный костюм",
+      "subtitle": "Bakı zadəgan qadın geyimi",
+      "description": "Утонченный наряд знатной бакинки. Главная особенность — приталенный бархатный архалыг с рукавами «нилюфяр» (расклешенными в виде цветка лотоса от локтя) и роскошный шелковый арахчин, украшенный жемчужной сеткой.",
+      "costumeId": "baku_aristocrat",
+      "culture": "Азербайджан",
+      "durationSec": 10,
+      "region": "baku_absheron",
+      "category": "female",
+      "isCustomUploaded": false,
+      "isTest15Sec": false,
+      "hotspots": [
+        {
+          "id": "spot_arakhchin_baku",
+          "timeSec": 1.5,
+          "visibleDurationSec": 3.5,
+          "xPercent": 50,
+          "yPercent": 16,
+          "title": "Жемчужный женский Арахчин",
+          "partName": "Головной убор знатной бакинки",
+          "description": "Изящная шапочка из глубокого бархата с россыпью натурального жемчуга и серебряной тесьмой бафта.",
+          "trajectory": [],
+          "culture": "Азербайджан"
+        },
+        {
+          "id": "spot_sinebend_baku",
+          "timeSec": 5,
+          "visibleDurationSec": 3.8,
+          "xPercent": 50,
+          "yPercent": 44,
+          "title": "Нагрудное украшение Синебенд",
+          "partName": "Серебряное филигранное колье",
+          "description": "Многоярусные подвески с полумесяцами и бутами, защищающие область сердца.",
+          "trajectory": [],
+          "culture": "Азербайджан"
+        }
+      ],
+      "chapters": [
+        {
+          "id": "chap_baku_1",
+          "title": "Жемчужный Арахчин",
+          "startSec": 0,
+          "durationSec": 3.5,
+          "description": "Плотный бархат с вышивкой каспийским жемчугом и височными монетами."
+        },
+        {
+          "id": "chap_baku_2",
+          "title": "Рукава-раструбы Нилюфяр и Синебенд",
+          "startSec": 3.5,
+          "durationSec": 3.5,
+          "description": "Сапфировый бархат архалыга и серебряное нагрудное ожерелье."
+        },
+        {
+          "id": "chap_baku_3",
+          "title": "Плиссированный туман и каспийский шелк",
+          "startSec": 7,
+          "durationSec": 3,
+          "description": "Шелковая ткань дараим с переливами каспийской волны."
+        }
+      ]
+    },
+    {
+      "id": "showcase_bek",
+      "title": "Мужской костюм азербайджанского бека",
+      "subtitle": "Azərbaycan bəy və xan çuxası",
+      "description": "Канонический мужской костюм азербайджанской знати. Включает строгую приталенную чуху (Çuxa) из тонкого сукна с серебряными газырями (Vəznələr), шелковый архалыг со стойкой-воротником, каракулевую папаху Бұхара и наборный кавказский пояс с кинжалом.",
+      "costumeId": "azerbaijan_bek_chuxa",
+      "culture": "Азербайджан",
+      "durationSec": 10,
+      "region": "karabakh",
+      "category": "male",
+      "isCustomUploaded": false,
+      "isTest15Sec": false,
+      "hotspots": [
+        {
+          "id": "spot_papakha",
+          "timeSec": 1.5,
+          "visibleDurationSec": 3.5,
+          "xPercent": 50,
+          "yPercent": 16,
+          "title": "Каракулевая папаха Бұхара",
+          "partName": "Символ чести мужчины",
+          "description": "«Папаху носят не для тепла, а для чести». Знак мужского достоинства и статуса.",
+          "trajectory": [],
+          "culture": "Азербайджан"
+        },
+        {
+          "id": "spot_gazyr",
+          "timeSec": 5,
+          "visibleDurationSec": 3.8,
+          "xPercent": 50,
+          "yPercent": 44,
+          "title": "Серебряные газыри чухи (Vəznələr)",
+          "partName": "Нагрудные пеналы с чернью",
+          "description": "Традиционные серебряные наконечники, превратившиеся в высокое ювелирное искусство.",
+          "trajectory": [],
+          "culture": "Азербайджан"
+        }
+      ],
+      "chapters": [
+        {
+          "id": "chap_bek_1",
+          "title": "Папаха Бұхара — Символ Мужской Чести",
+          "startSec": 0,
+          "durationSec": 3.5,
+          "description": "Каракуль высшего качества с благородным серебристым муаровым отливом."
+        },
+        {
+          "id": "chap_bek_2",
+          "title": "Газыри из резного серебра и шелковый архалыг",
+          "startSec": 3.5,
+          "durationSec": 3.5,
+          "description": "Нагрудные серебряные пеналы с чернью и облегающий шелковый жакет."
+        },
+        {
+          "id": "chap_bek_3",
+          "title": "Серебряный кавказский пояс и кинжал",
+          "startSec": 7,
+          "durationSec": 3,
+          "description": "Дамасская сталь, чеканное серебро и знак воинского достоинства."
+        }
+      ]
+    },
+    {
+      "id": "showcase_shaki_silk_bride",
+      "title": "Шекинский свадебный шелковый наряд",
+      "subtitle": "Şəki ipək gəlini",
+      "description": "Шеки — вековая столица шелка на Великом Шелковом Пути. Этот свадебный наряд отличается стеганой на вате жакеткой Лаббада (Ləbbadə), короткими рукавами и легчайшим алым Кялагаи с гранатовыми мотивами.",
+      "costumeId": "shaki_silk_bride",
+      "culture": "Азербайджан",
+      "durationSec": 15,
+      "region": "shaki_shirvan",
+      "category": "wedding",
+      "isCustomUploaded": false,
+      "isTest15Sec": false,
+      "hotspots": [],
+      "chapters": []
+    },
+    {
+      "id": "showcase_ganja_bahari",
+      "title": "Гянджинский наряд с бархатным Бяхари",
+      "subtitle": "Gəncə qadın libası (Baharili)",
+      "description": "Наряд древней Гянджи. Центральный элемент — «Бахари» (Bəhari), стеганый бархатный жакет на шелковой подкладке с короткими рукавами и тонкой золотой вышивкой растительных побегов Ислими.",
+      "costumeId": "ganja_bahari",
+      "culture": "Азербайджан",
+      "durationSec": 15,
+      "region": "ganja_gazakh",
+      "category": "female",
+      "isCustomUploaded": false,
+      "isTest15Sec": false,
+      "hotspots": [],
+      "chapters": []
+    },
+    {
+      "id": "showcase_nakhchivan_festive",
+      "title": "Нахчыванский праздничный наряд",
+      "subtitle": "Naxçıvan milli geyimi (Küləcəli)",
+      "description": "Костюм Нахчыванского региона с богатыми традициями ткачества Ордубада. Характеризуется верхним одеянием Кюляджа (Küləcə) с разрезами по бокам и ручными вязаными шерстяными носками-джорабами с яркими узорами.",
+      "costumeId": "nakhchivan_festive",
+      "culture": "Азербайджан",
+      "durationSec": 15,
+      "region": "nakhchivan",
+      "category": "festive",
+      "isCustomUploaded": false,
+      "isTest15Sec": false,
+      "hotspots": [],
+      "chapters": []
+    }
+  ]
+}
